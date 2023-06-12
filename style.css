@@ -1,0 +1,172 @@
+body{
+    background-image: url(img/layout.png);
+    background-color: black;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+main{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#mais{display: none}
+
+#mais2{display: none}
+
+#mais3{display: none}
+
+#mais4{display: none}
+
+#mais5{display: none}
+
+
+
+#mais6{display: none}
+
+#mais7{display: none}
+
+#mais8{display: none}
+
+#mais9{display: none}
+
+ 
+
+#mais10{display: none}
+
+#mais11{display: none}
+
+#mais12{display: none}
+
+#mais13{display: none}
+
+
+
+#mais14{display: none}
+#mais15{display: none}
+#mais16{display: none}
+#mais17{display: none}
+#mais18{display: none}
+
+
+
+button{
+    background-image: url(img/bagui.png);
+    background-attachment: local;
+    background-size: 100% 100%;
+    background-color: whitesmoke;
+    border-color: black;
+    border: 1px;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    
+}
+
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+ 
+
+
+
+main{
+    background-color: white;
+    width: 65%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+
+
+div{
+    background-image: absolute;
+    background-color: white;
+    width: 53%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+
+
+#imagem1{
+	position: absolute; 
+	left: 2%;
+	top: 21%;
+	}
+
+
+
+
+#imagem2 {
+    position: absolute; 
+    left: 75%;
+    top: 75%;
+    }
+
+
+
+
+#imagem3{
+    background-size: cover;
+    background-image: url(img/img2.png);
+    background-position: cover;
+    
+    background-repeat: no-repeat; 
+}
+
+
+
+#imagem4{
+    background-size: cover;
+    background-image: url(img/img1.jpg);
+    background-position: cover;
+    
+    background-repeat: no-repeat;
+}
+
+
+
+#imagem5{
+    background-size: cover;
+    background-image: url(img/img4.png);
+    background-position: cover;
+    
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+#SESI{
+   
+
+    position: absolute; 
+    left: 83%;
+    top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
